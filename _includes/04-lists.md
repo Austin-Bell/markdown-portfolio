@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- My favorite food: :pizza:
+- My favorite book: 'The Programming Language C'
+- My favorite hobby: video games🎮

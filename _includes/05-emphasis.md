@@ -1,0 +1,2 @@
+- programming languages: **C**, Javascript, Python
+- Computer Science skills: _web development_ , Data Science, web design
